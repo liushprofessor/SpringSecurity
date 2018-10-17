@@ -1,0 +1,1 @@
+这是一个SpringBoot和SpringSecurity的整合，添加了自定义验证。
